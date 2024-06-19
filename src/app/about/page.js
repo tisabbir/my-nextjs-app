@@ -1,4 +1,9 @@
 import React from 'react';
+export const metadata = {
+    title: 'About Page',
+    description: 'Created by TI Sabbir',
+  }
+  
 
 const About = () => {
     return (
